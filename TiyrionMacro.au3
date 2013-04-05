@@ -37,3 +37,8 @@
 
 ;oh and also, if we register a function that check for keypresses with AdlibRegister ?
 ;will it works ?
+
+;Idea #1 - No. We'd need to acces ZChatCmd, which is gunz function. I think there was an incldue that could let
+;you read memory, but i tried finding functions on FG, and couldn't.
+
+;Idea #3 - I did this in my new macr0, is okai.
